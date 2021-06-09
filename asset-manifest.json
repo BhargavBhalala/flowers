@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flowers/static/css/main.7c110a45.chunk.css",
+    "main.js": "/flowers/static/js/main.5148e703.chunk.js",
+    "main.js.map": "/flowers/static/js/main.5148e703.chunk.js.map",
+    "runtime-main.js": "/flowers/static/js/runtime-main.c9811fbb.js",
+    "runtime-main.js.map": "/flowers/static/js/runtime-main.c9811fbb.js.map",
+    "static/js/2.4175b862.chunk.js": "/flowers/static/js/2.4175b862.chunk.js",
+    "static/js/2.4175b862.chunk.js.map": "/flowers/static/js/2.4175b862.chunk.js.map",
+    "static/js/3.815325f6.chunk.js": "/flowers/static/js/3.815325f6.chunk.js",
+    "static/js/3.815325f6.chunk.js.map": "/flowers/static/js/3.815325f6.chunk.js.map",
+    "index.html": "/flowers/index.html",
+    "static/css/main.7c110a45.chunk.css.map": "/flowers/static/css/main.7c110a45.chunk.css.map",
+    "static/js/2.4175b862.chunk.js.LICENSE.txt": "/flowers/static/js/2.4175b862.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9811fbb.js",
+    "static/js/2.4175b862.chunk.js",
+    "static/css/main.7c110a45.chunk.css",
+    "static/js/main.5148e703.chunk.js"
+  ]
+}
